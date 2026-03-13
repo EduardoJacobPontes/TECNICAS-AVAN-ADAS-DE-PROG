@@ -1,8 +1,5 @@
 package sobrecarga;
 
-/**
- * Classe Calculadora que demonstra o conceito de sobrecarga de métodos.
- */
 public class Calculadora {
 
     /**
